@@ -3,6 +3,7 @@
   push();
   pop();
   display();
+  delete();
 }
 exit(0);
 }
