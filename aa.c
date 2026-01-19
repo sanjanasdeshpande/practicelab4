@@ -1,9 +1,0 @@
-#include<stdio.h>
-{
-  push();
-  pop();
-  display();
-  delete();
-}
-exit(0);
-}
